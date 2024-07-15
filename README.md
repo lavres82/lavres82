@@ -1,6 +1,6 @@
 # Olá, bem-vindo ao meu perfil! 👋
 
-Eu sou Juvenal Lavres (https://github.com/lavres82) e sou apaixonado por tecnologia e desenvolvimento de software. Aqui está um pouco sobre mim:
+Eu sou Juvenal Lavres, (https://github.com/lavres82) e sou apaixonado por tecnologia e desenvolvimento de software. Aqui está um pouco sobre mim:
 
 - 🧑‍💻 **Desenvolvedor** - Trabalhando principalmente com JavaScript(HTML e CSS), Python, SQLServer e etc.
 - 🌍 **Localização** - Russas-CE.
