@@ -26,8 +26,14 @@ Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidade
 
 ## Projetos em Destaque
 
-- [**Projeto 1**](https://github.com/seu-usuario/projeto-1) - Breve descrição do projeto.
-- [**Projeto 2**](https://github.com/seu-usuario/projeto-2) - Breve descrição do projeto.
+- [**Projeto 1**](https://github.com/lavres82/atividade_bootstrap)) - Nesse projeto teve como objetivo de construção o uso do Bootstrap.
+- [**Projeto 2**](https://github.com/lavres82/clonenetflix) - .
+- [**Projeto 3**](https://github.com/lavres82/pagina_web1) - .
+- [**Projeto 4**](https://github.com/lavres82/projeto2) - .
+- [**Projeto 5**](https://github.com/lavres82/projeto3) - .
+- [**Projeto 6**](https://github.com/lavres82/projetoApi) - .
+- [**Projeto 7**](https://github.com/lavres82/NETFLIX-clone) - .
+- [**Projeto 8**](https://github.com/lavres82/Tarefas-Diarias) - .
 
 ## Agradecimentos
 
