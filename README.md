@@ -8,8 +8,7 @@ Eu sou Juvenal Lavres, (https://github.com/lavres82) e sou apaixonado por tecnol
 
 ## Sobre Mim
 
-Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades. No momento, estou focado em QA-tester.
-
+Sou o engenheiro de software em formação aprendendo ser um profissional responsável por projetar e guiar o desenvolvimento de sistemas, aplicativos, programas e etc. O software é o conjunto de instruções lógicas de um computador ou sistema de processamento de dados, que irá orientar o que uma máquina deve fazer com objetivo de gerar soluções sociais e/ou corporativas.
 ## Redes Sociais
 
 📱 **Conecte-se comigo!**
